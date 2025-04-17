@@ -4,7 +4,7 @@
 I am Ray. I am from Auckland, New Zealand, currently pursuing a degree in Software Engineering / Mathematics at the University of New South Wales.
 - 💡 Interested in: Algorithms, Full-stack web development, Visualization tools, and more!
 - 🌱 Currently learning: AWS cloud computing
-- 📫 Reach me at: [raywang2003@gmail.com](mailto:raywang2003@gmail.com] or [LinkedIn profile][https://www.linkedin.com/in/ray-wang-0918b6276/]
+- 📫 Reach me at: [raywang2003@gmail.com][mailto:raywang2003@gmail.com] or [LinkedIn profile][https://www.linkedin.com/in/ray-wang-0918b6276/]
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
