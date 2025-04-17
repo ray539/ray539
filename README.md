@@ -4,7 +4,7 @@
 I am Ray. I am from Auckland, New Zealand, currently pursuing a degree in Software Engineering / Mathematics at the University of New South Wales.
 - 💡 Interested in: Algorithms, Full-stack web development, Visualization tools, and more!
 - 🌱 Currently learning: AWS cloud computing
-  ⚡ In my free time: I go for jogs and play piano
+- ⚡ In my free time: I go for jogs and play piano
 
 ###
 <div align="center">
@@ -15,7 +15,6 @@ I am Ray. I am from Auckland, New Zealand, currently pursuing a degree in Softwa
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
-###
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
